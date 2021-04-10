@@ -1,0 +1,11 @@
+def foo():
+    pass
+
+if __name__ == '__main__':
+    
+    x = 10
+
+    if x < 100:
+        pass
+
+    print('---')
